@@ -1,0 +1,6 @@
+hypothesis
+matplotlib
+numpy
+opencv_python
+Pillow
+setuptools
